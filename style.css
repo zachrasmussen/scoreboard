@@ -1,0 +1,30 @@
+.hero-img {
+    background-image: url(https://images.unsplash.com/photo-1520470082789-e347ad8b1944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 100vh;
+}
+
+.score-board {
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+
+    padding: 50px 0;
+    color: white;
+}
+
+.score-font {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 5em;
+}
+
+.team-font {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+}
+
+.score-button {
+    margin-top: 20px;
+}
